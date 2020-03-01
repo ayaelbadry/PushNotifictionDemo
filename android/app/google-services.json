@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30147650499",
+    "firebase_url": "https://pushnotificationdemo-4ce1d.firebaseio.com",
+    "project_id": "pushnotificationdemo-4ce1d",
+    "storage_bucket": "pushnotificationdemo-4ce1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30147650499:android:f69efd439d6316376cd376",
+        "android_client_info": {
+          "package_name": "com.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30147650499-0tej40lpf1ebc3qoh38itb4emavl7a8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLplTq_NCaFDbpJXKfAL9mzRi2xPbeUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30147650499-0tej40lpf1ebc3qoh38itb4emavl7a8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30147650499-nt38rsk4h52kc83jfmgbb0gqsg0qjpd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pushNotificationDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
